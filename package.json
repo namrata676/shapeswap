@@ -5,8 +5,8 @@
   "proxy": "http://localhost:5000",
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
-    "start": "set SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start -FAST_REFRESH=true",
-    "build": "set SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "start": "export NODE_OPTIONS=--openssl-legacy-provider && react-scripts start -FAST_REFRESH=true",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint src/**/*.{js,jsx,ts,tsx}",
