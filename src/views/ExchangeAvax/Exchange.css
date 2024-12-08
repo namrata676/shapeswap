@@ -1,0 +1,871 @@
+
+
+.buttonIn {
+    width: 350px;
+    position: relative;
+    margin-top: 3px;
+    padding: 3px;
+}
+
+
+.button1 {
+    position: absolute;
+    top: 0;
+    border-radius: 5px;
+    right: 20px !important;   
+    border: none;
+    /* top: 7px; */
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    font-style: normal !important;
+    height: 23px !important;
+    width: 44px !important;
+    cursor: pointer;   
+    background-color: white !important;
+    color: black !important;
+    transform: translateX(2px);
+    margin-top: 1px !important;
+    padding: 4px 8px;
+}
+
+.styleTooltip {
+    font-weight: bolder !important;
+    width: 50% !important;
+    overflow: wrap;
+    font-size: 18px !important; 
+    color: red !important;
+}
+
+.style1 {
+
+    width: 190px;
+    font-size: 3px;
+}
+
+.style22{    
+    font-size: 13px !important; 
+    color: rgba(255, 255, 255, 0.71) !important;
+    margin-top: 15px !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+}
+
+.style23{    
+ color: #FAA21A;
+ border: 2px;
+ border-color: #FAA21A;
+ height: 2em;
+ width: 2em;
+}
+.h1Style{
+    font-weight: 600 !important; 
+    font-size: 18px !important;
+    color: #faa21a;    
+    padding-top: 10px;
+    /* margin-left: 675px; */
+    margin-left: 42%;
+}
+.links{
+ max-height: 25%;
+ 
+}
+.slippagePercentage{
+    color: #faa21a;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    margin-left: 1px !important;
+    text-align: left;
+    padding-top: 6.8%;
+    width: 65%;
+}
+
+.autoSlippage{
+   color: #faa21a;
+   font-weight: 700 !important;
+   font-size: 20px !important;
+   margin-left: 2px;
+   width: 65%;
+}
+
+.input33 {
+    font-size: 10px !important;
+}
+
+.chains{
+    width: 100%;
+    height: 65px;
+    padding-right: 7%;
+    background-color: #292124;
+    padding-left: 0%;
+    padding-bottom: 10px;
+}
+
+.buycryptobutton {
+    display: block;
+    width: 35%;
+    height: auto;
+    background: #212429;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 4%;   
+    border-color: #faa21a;
+  box-shadow: 0 0 6px #faa21a;   
+}
+
+.buycryptobutton:hover{    
+    color: #faa21a;
+}
+
+.styleRefresh {
+   font-size: 10px  !important;
+   font-weight: 600  !important;
+   margin-bottom: 2px !important;
+   background: -webkit-linear-gradient(90deg, #0095EC 0%, #154DDD 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  
+}
+
+.refreshButton{
+    font-size: 15px !important;
+}
+
+.displayIcon {
+    font-size: large !important;
+    font-weight: 600 !important;
+    font-family: inherit;
+    color: black !important;
+}
+
+.displayNetwork {
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+
+}
+.networkBlock1{
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+    text-align: left !important;
+    justify-items: left !important;    
+}
+.networkBlock2{
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+    text-align: left !important;
+    justify-items: left !important;
+}
+
+.inputStyle {
+    width: 60%
+}
+
+@media only screen and (max-device-width: 1280px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        margin-left: 50% !important;
+        /* margin-left: 55% !important; */
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-left: 180px !important;
+        background-color: #212429;
+        padding-left: 20% !important;
+        padding-bottom: 10px;
+    }    
+}
+
+@media only screen and (max-device-width: 1024px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        margin-left: 55% !important;
+        /* margin-left: 55% !important; */
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-left: 180px !important;
+        background-color: #212429;
+        padding-left: 38% !important;
+        padding-bottom: 10px;
+    }    
+}
+
+@media only screen and (max-device-width: 912px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 52% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-left: 28% !important;
+        padding-bottom: 10px;
+    }
+
+    .style22{    
+        font-size: 13px !important; 
+    color: rgba(29, 29, 29, 0.4) !important;
+    margin-top: 15px !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    }
+    .slippagePercentage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        margin-left: 1px !important;
+        text-align: left;
+        padding-top: 6.8%;
+        width: 55%;
+    }
+    .autoSlippage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        margin-left: 12px;
+        width: 55%;
+        padding-right: 5px;
+     }    
+
+     .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 97% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+
+@media only screen and (max-device-width: 820px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 52% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-left: 20%;
+        padding-bottom: 10px;
+    }
+
+    .style22{    
+        font-size: 13px !important; 
+        color: rgba(29, 29, 29, 0.4) !important;
+        margin-top: 15px !important;
+        font-weight: 600 !important;
+        font-style: normal !important;
+    }
+    .slippagePercentage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 15px !important;
+        margin-left: 1px !important;
+        text-align: left;
+        padding-top: 6.8%;
+        width: 55%;
+    }
+    .autoSlippage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 15px !important;
+        margin-left: 12px;
+        width: 55%;
+        padding-right: 5px;
+     }    
+
+     .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+ 
+.inputStyle {
+    width: 68%
+}
+}
+
+@media only screen and (max-device-width: 540px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 20px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 35% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-left: 5% !important;
+        padding-bottom: 10px;
+    }
+
+    .style22{    
+        font-size: 13px !important; 
+    color: rgba(29, 29, 29, 0.4) !important;
+    margin-top: 15px !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    }
+    .slippagePercentage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        margin-left: 1px !important;
+        text-align: left;
+        padding-top: 6.8%;
+        width: 55%;
+    }
+    .autoSlippage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        margin-left: 12px;
+        width: 55%;
+        padding-right: 5px;
+     }    
+
+.buycryptobutton {
+    display: block;
+    width: 40%;
+    height: auto;
+    background: #212429;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 4%;   
+    border-color: #faa21a;
+  box-shadow: 0 0 6px #faa21a;   
+}
+
+.buycryptobutton:hover{    
+    color: #faa21a;
+}
+
+.input1 {
+    margin: 0px;
+    padding: 10px;
+    width: 100% !important;
+    outline: none;
+    height: 52px;
+    border-radius: 8px;
+    border: 0;
+    color: white;
+    background-color: #3a3a3c
+}
+.inputStyle {
+    width: 60%
+}
+}
+
+
+@media only screen and (max-device-width: 480px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 25%;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-left: 5%;
+        padding-bottom: 10px;
+    }
+
+    .style22{    
+        font-size: 13px !important; 
+        color: rgba(29, 29, 29, 0.4) !important;
+        margin-top: 15px !important;
+        font-weight: 600 !important;
+        font-style: normal !important;
+    }
+    .slippagePercentage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        margin-left: 1px !important;
+        text-align: left;
+        padding-top: 6.8%;
+        width: 55%;
+    }
+    .autoSlippage{
+        color: #faa21a;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        margin-left: 12px;
+        width: 55%;
+        padding-right: 5px;
+     }    
+
+     .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+@media only screen and (max-device-width: 450px) {
+
+    .inputStyle {
+        width: 60%
+    }
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 75%, #F5F5F5 25%) !important;
+    }
+}
+
+@media only screen and (max-device-width: 425px), screen and (max-width: 425px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 33% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-right: 5% !important;
+        padding-bottom: 10px;
+    }
+
+.buycryptobutton {
+    display: block;
+    width: 55%;
+    height: auto;
+    background: #212429;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 4%;   
+    border-color: #faa21a;
+    box-shadow: 0 0 6px #faa21a;   
+}
+
+.buycryptobutton:hover{    
+    color: #faa21a;
+}
+
+.input1 {
+    margin: 0px;
+    padding: 10px;
+    width: 100% !important;
+    outline: none;
+    height: 52px;
+    border-radius: 8px;
+    border: 0;
+    color: white;
+    background-color: #3a3a3c
+}
+
+.inputStyle {
+    width: 59%
+}
+}
+
+
+@media only screen and (max-device-width: 414px), screen and (max-width: 414px) {
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 33% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-right: 5% !important;
+        padding-bottom: 10px;
+    }
+
+.buycryptobutton {
+    display: block;
+    width: 55%;
+    height: auto;
+    background: #212429;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 4%;   
+    border-color: #faa21a;
+    box-shadow: 0 0 6px #faa21a;   
+}
+
+.buycryptobutton:hover{    
+    color: #faa21a;
+}
+
+.input1 {
+    margin: 0px;
+    padding: 10px;
+    width: 100% !important;
+    outline: none;
+    height: 52px;
+    border-radius: 8px;
+    border: 0;
+    color: white;
+    background-color: #3a3a3c
+}
+
+.inputStyle {
+    width: 60%
+}
+}
+
+@media only screen and (max-device-width: 414px), screen and (max-width: 414px) {
+
+    .inputStyle {
+        width: 60%
+    }
+
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 70%, #F5F5F5 30%) !important;
+    }
+
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 30% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-right: 5% !important;
+        padding-bottom: 10px;
+    }
+
+    .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+
+@media only screen and (max-device-width: 412px), screen and (max-width: 412px) {
+
+    .inputStyle {
+        width: 60%
+    }
+
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 70%, #F5F5F5 30%) !important;
+    }
+
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 30% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-right: 5% !important;
+        padding-bottom: 10px;
+    }
+
+    .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+@media only screen and (max-device-width: 393px), screen and (max-width: 393px) {
+
+    .inputStyle {
+        width: 59%
+    }
+
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 70%, #F5F5F5 30%) !important;
+    }
+
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 30% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-right: 5% !important;
+        padding-bottom: 10px;
+    }
+
+    .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+@media only screen and (max-device-width: 390px), screen and (max-width: 390px) {
+
+    .inputStyle {
+        width: 59%
+    }
+
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 70%, #F5F5F5 30%) !important;
+    }
+
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 30% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-right: 5% !important;
+        padding-bottom: 10px;
+    }
+
+    .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+@media only screen and (max-device-width: 360px), screen and (max-width: 360px) {
+
+    .inputStyle {
+        width: 58%
+    }
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 70%, #F5F5F5 30%) !important;
+    }
+
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 30% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;        
+        padding-bottom: 10px;
+    }
+
+    .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+
+@media only screen and (max-device-width: 320px), screen and (max-width: 320px) {
+
+    .inputStyle {
+        width: 58%
+    }
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 70%, #F5F5F5 30%) !important;
+    }
+
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 30% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;        
+        padding-bottom: 10px;
+    }
+
+    .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}
+
+
+@media only screen and (max-device-width: 280px), screen and (max-width: 280px) {
+
+    .inputStyle {
+        width: 58%
+    }
+
+    .input33 {
+        background: linear-gradient(to right, #FDFDFD 70%, #F5F5F5 30%) !important;
+    }
+
+    .h1Style{
+        font-weight: 600 !important; 
+        font-size: 18px !important;
+        color: #faa21a;    
+        padding-top: 10px;
+        /* margin-left: 675px; */
+        margin-left: 28% !important;
+    }
+
+    .chains{
+        width: 100%;
+        height: 65px;
+        padding-right: 8%;
+        background-color: #212429;
+        padding-right: 0% !important;
+        padding-bottom: 10px;
+    }
+
+    .input1 {
+        margin: 0px;
+        padding: 10px;
+        width: 100% !important;
+        outline: none;
+        height: 52px;
+        border-radius: 8px;
+        border: 0;
+        color: white;
+        background-color: #3a3a3c
+    }
+}

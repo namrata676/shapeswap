@@ -1,0 +1,17 @@
+
+
+.buttonStyling {
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    font-weight: normal !important;
+    color: #FFFFFF;
+}  
+
+.launchDapp {
+    background-color: transparent;
+    border-radius: 13px;
+    padding: 2px;
+    width: 95%;
+    margin-right: 10px;
+    padding-top: 4px;
+}

@@ -1,0 +1,13 @@
+
+.closeButton {
+    background-color: #154ddd;
+    border-radius: 5px;
+    color: white !important;
+}
+
+.slippageTitle {
+    color : rgba(255, 255, 255, 100%) !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+}

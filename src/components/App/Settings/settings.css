@@ -1,0 +1,16 @@
+.slippageTolerance {
+    font-style: normal !important;
+font-weight: 500 !important;
+font-size: 18px !important;
+color : rgba(255, 255, 255, 100%) !important;
+}
+
+.slippageText {
+    font-size: 18px !important;
+    color : rgba(255, 255, 255, 100%) !important;
+}
+
+.headerBG {
+    background-color: #1b2028 !important;
+    color : rgba(255, 255, 255, 100%) !important;
+}

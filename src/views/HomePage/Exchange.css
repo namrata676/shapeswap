@@ -1,0 +1,1415 @@
+.container {           
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 5px;  
+  }
+
+.containerm {      
+    margin-top: 10% !important;   
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 5px;
+  }
+
+
+.mainImg{
+    margin-left: 55px;
+}
+
+.logoImg{
+    width: 20%;
+    display: block !important;
+    position: relative;
+    margin: 0 auto;
+    padding: 10px;
+    padding-top: 25px;
+}
+
+.logoImgm{
+    width: 30%;    
+    display: block !important;
+    position: relative;
+    margin: 0 auto;
+    padding: 10px;    
+}
+
+/*
+.multichain {
+margin-top: 175% !important;
+}
+
+.LoremIpsumDolorSi {
+justify-content: center !important;
+ width: 634px;
+ text-align: center;
+ letter-spacing: 0;
+ line-height: 24px;
+ justify: center !important;
+ align-items: center !important;
+ color: white !important;
+ margin-left: 20% !important;
+ margin-top: 5%;
+}
+.ogImg{
+    border-radius: 13px !important;
+    width: 75% !important;
+    margin-left: 10% !important;
+}
+
+.inMedia{
+    display: flex;
+    margin-left: 0%;
+    width: auto !important;
+    max-width: 90%;
+    padding-top: 10px;
+    padding: 10px;
+    border-radius: 16px;
+}
+.videos{
+    display: flex;
+    margin-left: 0%;
+    width: auto !important;
+    max-width: 100%;
+    padding-top: 10px;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+.webBanner{
+    width: 50%  !important;
+    margin-left: 4% !important;
+    border-radius: 16px !important;
+ }
+
+@media only screen and (max-device-width: 1820px), screen and (max-width: 1820px) {
+    .container {    
+        font-size: 24px;
+        margin-right: 220px;
+        margin-top: 185%;
+        width: auto;
+        height: 590px;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1786px;
+        height: 1258px;
+        position: relative;
+        margin-top: 7px;  
+        margin-left: -20px;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px;
+          left: 0;
+          margin-left: 0%;
+          margin-top: 1%;
+        }
+
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 75% !important;
+            margin-left: 5% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 90%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .videos{
+            display: flex;
+            margin-left: 2% !important;
+            width: auto !important;
+            max-width:90%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .webBanner{
+            width: 50%  !important;
+            margin-left: 20% !important;
+            border-radius: 16px !important;
+         }
+}
+
+
+@media only screen and (max-device-width: 1480px), screen and (max-width: 1480px) {
+    .container {    
+        font-size: 24px;
+        margin-right: 50px;
+        margin-top: 220%;
+        width: auto;
+        height: 590px;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1786px;
+        height: 1258px;
+        position: relative;
+        margin-top: 7px;  
+        margin-left: -20px;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px;
+          left: 0;
+          margin-left: 0%;
+          margin-top: 1%;
+        }
+        
+        .ogImg{
+            border-radius: 13px !important;
+            width: 75% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 70%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .videos{
+            display: flex;
+            margin-left: 8%;
+            width: auto !important;
+            max-width:90%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .webBanner{
+            width: 50%  !important;
+            margin-left: 5% !important;
+            border-radius: 16px !important;
+         }
+}
+
+
+@media only screen and (max-device-width: 1366px), screen and (max-width: 1366px) {
+    .container {    
+        font-size: 24px;
+        margin-left: 95px;
+        margin-top: 230%;
+        width: auto;
+        height: 590px;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1490px;
+        height: 1258px;
+        position: relative;
+        margin-top: 7px;  
+        margin-left: -20px;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px;
+          left: 0;
+          margin-left: 0%;
+          margin-top: 1%;
+        }
+
+                
+        .ogImg{
+            border-radius: 13px !important;
+            width: 65% !important;
+            margin-left: 0px !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 5%;
+            width: auto !important;
+            max-width: 60%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .videos{
+            display: flex;
+            margin-left: 10%;
+            width: auto !important;
+            max-width:100%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .webBanner{
+            width: 50%  !important;
+            margin-left: 8% !important;
+            border-radius: 16px !important;
+         }
+}
+
+
+@media only screen and (max-device-width: 1280px), screen and (max-width: 1280px) {
+    .container {    
+        font-size: 24px;
+        margin-right: 50px;
+        margin-top: 235%;
+        width: auto;
+        height: 590px;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1490px;
+        height: 1258px;
+        position: relative;
+        margin-top: 7px;  
+        margin-left: -20px;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px;
+          left: 0;
+          margin-left: 0%;
+          margin-top: 1%;
+        }
+                     
+        .ogImg{
+            border-radius: 13px !important;
+            width: 57% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 60%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .videos{
+            display: flex;
+            margin-left: 8%;
+            width: auto !important;
+            max-width: 65%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .webBanner{
+            width: 50%  !important;
+            margin-left: 5% !important;
+            border-radius: 16px !important;
+         }
+}
+
+@media only screen and (max-device-width: 1180px), screen and (max-width: 1180px) {
+    .container {    
+        font-size: 24px !important;;
+        margin-right: 0px !important;;
+        margin-top: 275% !important;;
+        width: auto !important;;
+        height: 690px !important;;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1515px !important;
+        height: 1258px !important;
+        position: relative !important;;
+        margin-top: 7px !important;;  
+        margin-left: -20px !important;;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px;
+          left: 0;
+          margin-left: 0%;
+          margin-top: 1%;
+        }
+                    
+        .ogImg{
+            border-radius: 13px !important;
+            width: 53% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 60%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .videos{
+            display: flex;
+            margin-left: 5%;
+            width: auto !important;
+            max-width: 60%;
+            padding-top: 10px;
+            padding: 10px;
+            border-radius: 16px;
+        }
+        .webBanner{
+            width: 50%  !important;
+            margin-left: 3% !important;
+            border-radius: 16px !important;
+         }
+}
+
+@media only screen and (max-device-width: 1024px), screen and (max-width: 1024px) {
+    .container {    
+        font-size: 24px !important;
+        margin-left: 25px !important;
+        margin-top: 325% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 44% !important;
+            margin-left: 0px !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 5% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 40%  !important;
+            margin-left: 4% !important;
+            border-radius: 16px !important;
+         }
+}
+
+@media only screen and (max-device-width: 912px), screen and (max-width: 912px) {
+    .container {    
+        font-size: 24px !important;
+        margin-right: 45px !important;
+        margin-top: 288% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 0% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+
+ 
+}
+
+
+@media only screen and (max-device-width: 820px), screen and (max-width: 820px) {
+  
+   .container {    
+        font-size: 24px !important;
+        margin-right: 45px !important;
+        margin-top: 330% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+                     
+        .ogImg{
+            border-radius: 13px !important;
+            width: 65% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 5% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 40%  !important;
+            margin-left: 4% !important;
+            border-radius: 16px !important;
+         }
+    }
+
+
+@media only screen and (max-device-width: 800px), screen and (max-width: 800px) {
+  
+    .container {    
+         font-size: 24px !important;
+         margin-left: 75px !important;
+         margin-top: 365% !important;
+         width: auto !important;
+         height: 590px !important;    
+       }
+     
+     .multichain {
+     margin-top: 175% !important;
+     }
+ 
+     .OverlapGroupContainer {
+         width: 1213px !important;
+         height: 1258px !important;
+         position: relative !important;
+         margin-top: 7px !important;  
+         margin-left: -20px !important;  
+         }
+         
+         .OverlapGroup3 {
+           top: 119px !important;
+           left: 0 !important;
+           margin-left: 0% !important;
+           margin-top: 1% !important;
+         }
+ 
+                      
+         .ogImg{
+             border-radius: 13px !important;
+             width: 44% !important;
+         }
+ 
+         .inMedia{
+             display: flex;
+             margin-left: 0%;
+             width: auto !important;
+             max-width: 40% !important;
+             padding-top: 10px !important;
+             padding: 10px !important;
+             border-radius: 16px !important;
+         }
+         .videos{
+             display: flex !important;
+             margin-left: 5% !important;
+             width: auto !important;
+             max-width: 20% !important;
+             padding-top: 10px !important;
+             padding: 10px !important;
+             border-radius: 16px !important;
+         }
+         .webBanner{
+            width: 40%  !important;
+            margin-left: 4% !important;
+            border-radius: 16px !important;
+         }
+     }
+
+    @media only screen and (max-device-width: 768px), screen and (max-width: 768px) {
+  
+        .container {    
+             font-size: 24px !important;
+             margin-left: 50px !important;
+             margin-top: 330% !important;
+             width: auto !important;
+             height: 590px !important;    
+           }
+         
+         .multichain {
+         margin-top: 175% !important;
+         }
+     
+         .OverlapGroupContainer {
+             width: 1213px !important;
+             height: 1258px !important;
+             position: relative !important;
+             margin-top: 7px !important;  
+             margin-left: -20px !important;  
+             }
+             
+             .OverlapGroup3 {
+               top: 119px !important;
+               left: 0 !important;
+               margin-left: 0% !important;
+               margin-top: 1% !important;
+             }
+     
+                          
+             .ogImg{
+                 border-radius: 13px !important;
+                 width: 49% !important;
+             }
+     
+             .inMedia{
+                 display: flex;
+                 margin-left: 0%;
+                 width: auto !important;
+                 max-width: 50% !important;
+                 padding-top: 10px !important;
+                 padding: 10px !important;
+                 border-radius: 16px !important;
+             }
+             .videos{
+                 display: flex !important;
+                 margin-left: 0% !important;
+                 width: auto !important;
+                 max-width: 30% !important;
+                 padding-top: 10px !important;
+                 padding: 10px !important;
+                 border-radius: 16px !important;
+             }
+         }
+     
+
+@media only screen and (max-device-width: 600px), screen and (max-width: 600px) {
+    .container {    
+        font-size: 24px !important;
+        margin-right: 25px !important;
+        margin-top: 500% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 0% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+}
+
+
+
+
+@media only screen and (max-device-width: 540px), screen and (max-width: 540px) {
+    .container {    
+        font-size: 24px !important;
+        margin-right: -3px !important;
+        margin-top: 575% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 0% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+}
+
+
+@media only screen and (max-device-width: 480px), screen and (max-width: 480px) {
+    .container {    
+        font-size: 24px !important;
+        margin-right: -3px !important;
+        margin-top: 750% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 20% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 0% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+}
+
+@media only screen and (max-device-width: 450px), screen and (max-width: 450px) {
+
+    .container {    
+        font-size: 24px !important;
+        margin-right: 20px !important;
+        margin-top: 700% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 20% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 0% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+}
+
+@media only screen and (max-device-width: 425px), screen and (max-width: 425px) {
+
+    .container {    
+        font-size: 24px !important;
+        margin-right: 20px !important;
+        margin-top: 900% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 20% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 0% !important;
+            width: auto !important;
+            max-width: 30% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+}
+
+
+@media only screen and (max-device-width: 414px), screen and (max-width: 414px) {
+
+    .container {    
+        font-size: 24px !important;
+        margin-left: 25px !important;
+        margin-top: 650% !important;
+        width: auto !important;
+        max-width: 100% !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 20% !important;
+        }
+        
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 1.5% !important;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 22%  !important;
+            margin-left: 1.75% !important;
+            border-radius: 16px !important;
+         }
+}
+
+@media only screen and (max-device-width: 393px), screen and (max-width: 393px) {
+    .container {    
+        font-size: 24px !important;
+        margin-right: 25px !important;
+        margin-top: 675% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 20% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 2.5% !important;
+            width: auto !important;
+            max-width: 40% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 20%  !important;
+            margin-left: 2% !important;
+            border-radius: 16px !important;
+         }
+}
+
+@media only screen and (max-device-width: 390px), screen and (max-width: 390px) {
+
+    .container {    
+        font-size: 12px !important;
+        margin-right: 0px !important;
+        margin-top: 700% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 20% !important;
+            margin-left: 0px !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 2.5% !important;
+            width: auto !important;
+            max-width: 25% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 20%  !important;
+            margin-left: 2% !important;
+            border-radius: 16px !important;
+         }
+    }
+
+    @media only screen and (max-device-width: 384px), screen and (max-width: 384px) {
+
+        .container {    
+            font-size: 12px !important;
+            margin-right: 0px !important;
+            margin-top: 750% !important;
+            width: auto !important;
+            height: 590px !important;    
+          }
+        
+        .multichain {
+        margin-top: 175% !important;
+        }
+    
+        .OverlapGroupContainer {
+            width: 1213px !important;
+            height: 1258px !important;
+            position: relative !important;
+            margin-top: 7px !important;  
+            margin-left: -20px !important;  
+            }
+            
+            .OverlapGroup3 {
+              top: 119px !important;
+              left: 0 !important;
+              margin-left: 0% !important;
+              margin-top: 1% !important;
+            }
+    
+            .ogImg{
+                border-radius: 13px !important;
+                width: 20% !important;
+                margin-left: 0px !important;
+            }
+
+            .inMedia{
+                display: flex;
+                margin-left: 0%;
+                width: auto !important;
+                max-width: 50% !important;
+                padding-top: 10px !important;
+                padding: 10px !important;
+                border-radius: 16px !important;
+            }
+            .videos{
+                display: flex !important;
+                margin-left: 2.5% !important;
+                width: auto !important;
+                max-width: 10% !important;
+                padding-top: 10px !important;
+                padding: 10px !important;
+                border-radius: 16px !important;
+            }
+            .webBanner{
+                width: 18%  !important;
+                margin-left: 2.5% !important;
+                border-radius: 16px !important;
+             }
+        }
+    
+
+        @media only screen and (max-device-width: 375px), screen and (max-width: 375px) {
+
+            .container {    
+                font-size: 12px !important;
+                margin-right: 0px !important;
+                margin-top: 750% !important;
+                width: auto !important;
+                height: 590px !important;    
+              }
+            
+            .multichain {
+            margin-top: 175% !important;
+            }
+        
+            .OverlapGroupContainer {
+                width: 1213px !important;
+                height: 1258px !important;
+                position: relative !important;
+                margin-top: 7px !important;  
+                margin-left: -20px !important;  
+                }
+                
+                .OverlapGroup3 {
+                  top: 119px !important;
+                  left: 0 !important;
+                  margin-left: 0% !important;
+                  margin-top: 1% !important;
+                }
+        
+                .ogImg{
+                    border-radius: 13px !important;
+                    width: 20% !important;
+                    margin-left: 0px !important;
+                }
+    
+                .inMedia{
+                    display: flex;
+                    margin-left: 0%;
+                    width: auto !important;
+                    max-width: 50% !important;
+                    padding-top: 10px !important;
+                    padding: 10px !important;
+                    border-radius: 16px !important;
+                }
+                .videos{
+                    display: flex !important;
+                    margin-left: 2.5% !important;
+                    width: auto !important;
+                    max-width: 10% !important;
+                    padding-top: 10px !important;
+                    padding: 10px !important;
+                    border-radius: 16px !important;
+                }
+                .webBanner{
+                    width: 18%  !important;
+                    margin-left: 2.5% !important;
+                    border-radius: 16px !important;
+                 }
+            }
+        
+    
+
+
+@media only screen and (max-device-width: 360px), screen and (max-width: 360px) {
+
+    .container {    
+        font-size: 12px !important;
+        margin-right: 0px !important;
+        margin-top: 775% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+
+        .ogImg{
+            border-radius: 13px !important;
+            width: 17% !important;   
+            margin-left: 10px !important         
+        }
+        
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 1% !important;
+            width: auto !important;
+            max-width: 10% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 18%  !important;
+            margin-left: 2% !important;
+            border-radius: 16px !important;
+         }
+}
+
+
+@media only screen and (max-device-width: 353px), screen and (max-width: 353px) {
+
+    .container {    
+        font-size: 12px !important;
+        margin-right: 0px !important;
+        margin-top: 835% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 50% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: 1% !important;
+            width: auto !important;
+            max-width: 10% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 18%  !important;
+            margin-left: 2% !important;
+            border-radius: 16px !important;
+         }
+}
+
+
+
+@media only screen and (max-device-width: 320px), screen and (max-width: 320px) {
+
+    .container {    
+        font-size: 12px !important;
+        margin-right: 0px !important;
+        margin-top: 900% !important;
+        width: auto !important;
+        height: 590px !important;    
+      }
+    
+    .multichain {
+    margin-top: 175% !important;
+    }
+
+    .OverlapGroupContainer {
+        width: 1213px !important;
+        height: 1258px !important;
+        position: relative !important;
+        margin-top: 7px !important;  
+        margin-left: -20px !important;  
+        }
+        
+        .OverlapGroup3 {
+          top: 119px !important;
+          left: 0 !important;
+          margin-left: 0% !important;
+          margin-top: 1% !important;
+        }
+
+        .inMedia{
+            display: flex;
+            margin-left: 0%;
+            width: auto !important;
+            max-width: 20% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .videos{
+            display: flex !important;
+            margin-left: .5% !important;
+            width: auto !important;
+            max-width: 10% !important;
+            padding-top: 10px !important;
+            padding: 10px !important;
+            border-radius: 16px !important;
+        }
+        .webBanner{
+            width: 15%  !important;
+            margin-left: 2.5% !important;
+            border-radius: 16px !important;
+         }
+}
+
+
+@media only screen and (max-device-width: 280px), screen and (max-width: 280px) {
+
+
+    .multichain {
+        margin-top: 1150% !important;
+        }
+}
+
+*/

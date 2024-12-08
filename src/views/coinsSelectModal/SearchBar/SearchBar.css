@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    height: 75%;
+    width: 100%;
+    align-items: start;
+    flex-direction: column;
+    row-gap: 20px;        
+    color: #eee !important;
+}
+
+.search {
+    width: 95%;    
+    color: #eee !important;
+}
+
+ul li {
+    font-size: 20px;
+    color: #eee !important;
+} 
+
+.listCoin {
+list-style: none;
+}
+
+.username{
+    color: #eee !important;
+}
+
+.networkButton {
+    font-style: normal !important;
+font-weight: 400 !important;
+font-size: 16px !important;
+}
